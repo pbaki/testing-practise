@@ -1,0 +1,22 @@
+{
+  "name": "testing-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jest": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbaki/testing-practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbaki/testing-practise/issues"
+  },
+  "homepage": "https://github.com/pbaki/testing-practise#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
